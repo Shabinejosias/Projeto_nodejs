@@ -1,6 +1,6 @@
 # Como rodar o projeto
 > npm install
-> pode usar o Postman
+> pode usar a insomnia
 # Para acessar todas as tarefas:
 
 > http://localhost:5000/tasks / tipo get
